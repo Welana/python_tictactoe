@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
-@author Scott
+Atom
+@author Joshua Lawson
 
-CURRENT VERSION (2.1):
-    Player vs player
-    Player vs AI making random moves
+CURRENT VERSION (3.0):
+    Added 5x5
+    Removed 3x3 ( : ( )
 
 TODO:
     Check invalid input when entering row/column
